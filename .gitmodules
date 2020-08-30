@@ -1,0 +1,48 @@
+[submodule "Churn_Prediction_of_bank_customers_Data"]
+	path = Churn_Prediction_of_bank_customers_Data
+	url = https://github.com/TawanTan/Churn_Prediction_of_bank_customers_Data.git
+	branch = master
+[submodule "BIG-MART-SALES-DATA"]
+	path = BIG-MART-SALES-DATA
+	url = https://github.com/TawanTan/BIG-MART-SALES-DATA.git
+	branch = master
+[submodule "German_Credit_Risk_Data"]
+	path = German_Credit_Risk_Data
+	url = https://github.com/TawanTan/German_Credit_Risk_Data.git
+	branch = master
+[submodule "GlassData"]
+	path = GlassData
+	url = https://github.com/TawanTan/GlassData.git
+	branch = master
+[submodule "Prostate_Cancer_Data"]
+	path = Prostate_Cancer_Data
+	url = https://github.com/TawanTan/Prostate_Cancer_Data.git
+	branch = master
+[submodule "WineData"]
+	path = WineData
+	url = https://github.com/TawanTan/WineData.git
+	branch = master
+[submodule "kidney_disease_Data"]
+	path = kidney_disease_Data
+	url = https://github.com/TawanTan/kidney_disease_Data.git
+	branch = master
+[submodule "HousePricePredictionData"]
+	path = HousePricePredictionData
+	url = https://github.com/TawanTan/HousePricePredictionData.git
+	branch = master
+[submodule "USA_HousingData"]
+	path = USA_HousingData
+	url = https://github.com/TawanTan/USA_HousingData.git
+	branch = master
+[submodule "NYCAirbnbData"]
+	path = NYCAirbnbData
+	url = https://github.com/TawanTan/NYCAirbnbData.git
+	branch = master
+[submodule "VgsalesData"]
+	path = VgsalesData
+	url = https://github.com/TawanTan/VgsalesData.git
+	branch = master
+[submodule "Wine_dataset"]
+	path = Wine_dataset
+	url = https://github.com/TawanTan/Wine_dataset.git
+	branch = master
